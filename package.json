@@ -1,0 +1,22 @@
+{
+  "name": "nature-tour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./sass/main.scss ./css/style.css",
+    "sass:watch": "sass --watch ./sass/main.scss ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuhulAmin0011/Nature-Tour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuhulAmin0011/Nature-Tour/issues"
+  },
+  "homepage": "https://github.com/RuhulAmin0011/Nature-Tour#readme"
+}
